@@ -200,7 +200,13 @@ PublishScripts/
 # NuGet Symbol Packages
 *.snupkg
 # The packages folder can be ignored because of Package Restore
-# **/[Pp]ackages/*
+**/[Pp]ackages/*
+!packages/webapi/
+!packages/webapi/**
+!packages/webapp/
+!packages/webapp/**
+!packages/agent/
+!packages/agent/**
 
 # except build/, which is used as an MSBuild target.
 !**/[Pp]ackages/build/
