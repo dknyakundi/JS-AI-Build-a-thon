@@ -1,0 +1,8 @@
+type: bing_grounding
+id: bing_search
+options:
+  tool_connections:
+    - /subscriptions/75c59c8b-fe8d-4fa1-9f45-23ae2bde04a5/resourceGroups/rg-dknyakundi-0586_ai/providers/Microsoft.MachineLearningServices/workspaces/dknyakundi-3191/connections/JSAIBuildaThon
+
+
+    

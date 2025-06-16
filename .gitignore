@@ -205,6 +205,8 @@ PublishScripts/
 !packages/webapi/**
 !packages/webapp/
 !packages/webapp/**
+!packages/agent/
+!packages/agent/**
 # except build/, which is used as an MSBuild target.
 !**/[Pp]ackages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
